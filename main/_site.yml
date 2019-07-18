@@ -1,6 +1,6 @@
 name: "rprojects"
 output_dir: "../docs"
-include: [".nojekyll"]
+include: [".nojekyll", "GU-Logo-blau.png", "outfold.js"]
 output:
   html_document:
     theme: flatly
