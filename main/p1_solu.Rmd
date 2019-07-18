@@ -5,7 +5,7 @@ title: "Lösungen"
 knitr::opts_chunk$set(out.extra = 'class="plot"')
 ```
 
-<script src="../../resources/outfold.js"></script>
+<script src="../resources/outfold.js"></script>
 
 ## {.tabset .tabset-fade .tabset-pills}
 

@@ -1,10 +1,11 @@
 name: "rprojects"
+output_dir: "../docs"
+include: [".nojekyll"]
 output:
   html_document:
     theme: flatly
     highlight: textmate
     css: style.css
-output_dir: "../docs"
 navbar:
   title: "R Projekte"
   left:
