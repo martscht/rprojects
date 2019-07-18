@@ -4,6 +4,7 @@ output:
     theme: flatly
     highlight: textmate
     css: style.css
+output_dir: "../docs"
 navbar:
   title: "R Projekte"
   left:
