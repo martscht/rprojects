@@ -1,0 +1,34 @@
+name: "rprojects"
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    css: style.css
+navbar:
+  title: "R Projekte"
+  left:
+    - text: Projekt 1
+      icon: fa-heartbeat
+      menu:
+        - text: "Übersicht"
+          href: p1_main.html
+        - text: "Aufgaben"
+          href: p1_exer.html
+        - text: "Tipps"
+          href: p1_tips.html
+        - text: "Lösungen"
+          href: p1_solu.html
+    - text: Projekt 2
+      icon: fa-feather
+      menu:
+        - text: "Übersicht"
+          href: p2_main.html
+        - text: "Aufgaben"
+          href: p2_exer.html
+        - text: "Tipps"
+          href: p2_tips.html
+        - text: "Lösungen"
+          href: p2_solu.html
+    - text: "Impressum"
+      icon: fa-info
+      href: about.html

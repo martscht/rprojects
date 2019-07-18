@@ -1,0 +1,19 @@
+---
+title: "Projekt 1"
+---
+
+Inhaltliche Beschreibung des Projektes.
+
+## Vorab
+
+Hier sollte nötiges Vorwissen behandelt werden, bzw. auf Stellen verlinkt werden, wo das zu finden ist. Mitunter kann es dabei hilfreich sein, schon kleinere Abfragen einzubauen.
+
+
+## Zielsetzung
+
+Beschreibung des Ziels im Sinne des Kompetenzerwerbs. Hier geht es noch nicht um die konkrete Inhalte, sondern ausschließlich um das große Ganze, das in dieser Session erreicht werden soll.
+
+
+## Hilfe und Lösungen
+
+An dieser Stelle sollte ein genereller Text auftauchen, der auf die entsprechenden <a href="./p1_tips.html">Tipps</a> und <a href="./p1_solu.html">Lösungen</a> verweist.

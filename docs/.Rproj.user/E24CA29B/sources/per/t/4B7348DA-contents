@@ -1,0 +1,24 @@
+name: "rprojects"
+output:
+  html_document:
+    theme: flatly
+navbar:
+  title: "R Projekte"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: Projekt 1
+      icon: fa-desktop
+      menu:
+        - text: Übersicht
+          href: p1_main.html
+        - text: Aufgaben
+          href: p1_exer.html
+        - text: Tipps
+          href: p1_tips.html
+        - text: Lösungen
+          href: p1_solu.html
+    - text: "Impressum"
+      icon: fa-info
+      href: about.html

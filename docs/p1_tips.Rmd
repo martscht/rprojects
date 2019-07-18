@@ -1,0 +1,39 @@
+---
+title: "Tipps"
+---
+<script src="../../resources/outfold.js"></script>
+
+## {.tabset .tabset-fade .tabset-pills}
+
+### Vorwarnung
+
+Warnung, dass die anderen Tabs Hinweise zur Lösung enthalten. An dieser Stelle sollte eine minimale Inhaltsangabe der Tipps stehen, die dazu dient, dass z.B. Leute, die mit dem Einlesen der Daten ein Problem haben wissen, dass Sie auf Tipp X gehen sollten.
+
+
+### Tipp 1
+
+Die Tipps sollten konkrete Hinweise enthalten, aber keine vollständige Lösung liefern. R-Code wird dabei - per Voreinstellung - ausgeblendet und nur auf expliziten Knopfdruck hin dargestellt:
+
+<div class='fold s o'>
+```{r}
+R.Version()
+```
+</div>
+
+### Tipp 2
+
+Gegebenenfalls sollte in den Tipps auch spezifischer Output und dessen Implikationen für das weitere Vorgehen besprochen werden. Es kann z.B. notwendig sein, den Datensatz einmal kurz darszustellen. Dafür sollte zur Darstellung das Paket `DT` genutzt werden, welches für die Umsetzung durch Studierende aber nicht nötig ist.
+
+```{r, echo=FALSE}
+library(DT)
+data(swiss)
+datatable(swiss)
+```
+
+### Tipp 3
+
+Hier sollte irgendwann Inhalt stehen.
+
+### Tipp 4
+
+Hier sollte irgendwann Inhalt stehen.

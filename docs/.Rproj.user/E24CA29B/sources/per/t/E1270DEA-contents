@@ -1,0 +1,52 @@
+---
+title: "Projekt 1"
+output: html_document
+---
+
+Inhaltliche Beschreibung des Projektes.
+
+## Vorab
+
+Hier sollte nötiges Vorwissen behandelt werden, bzw. auf Stellen verlinkt werden, wo das zu finden ist. Mitunter kann es dabei hilfreich sein, schon kleinere Abfragen einzubauen.
+
+
+## Zielsetzung
+
+Beschreibung des Ziels. Hier könnte z.B. die fertige Abbildung für ein ähnliches, aber nicht identisches Beispiel gezeigt werden.
+
+## Tipps {.tabset .tabset-fade .tabset-pills}
+
+### Vorwarnung
+
+Warnung, dass die anderen Tabs Hinweise zur Lösung enthalten. An dieser Stelle sollte eine minimale Inhaltsangabe der Tipps stehen, die dazu dient, dass z.B. Leute, die mit dem Einlesen der Daten ein Problem haben wissen, dass Sie auf Tipp X gehen sollten.
+
+
+### Tipp 1
+
+Die Tipps sollten konkrete Hinweise enthalten, aber keine vollständige Lösung liefern.
+
+### Tipp 2
+
+### Tipp 3
+
+### Tipp 4
+
+## Lösung {.tabset .tabset-fade .tabset-pills}
+
+### Vorwarnung
+
+Wie auch bei den Tipps, sollte die offene Abschnitt der Lösungen nicht direkt die Lösung zeigen, sondern zunächst eine Vorwarnung enthalten.
+
+### Abschnitt 1
+
+Die Lösungen sollten in inhaltlich sinnvolle Teilabschnitte eingeteilt sein, damit auch Teillösungen bezogen werden können.
+
+### Abschnitt 2
+
+### Abschnitt 3
+
+### Abschnitt 4
+
+## Weiterführung
+
+Hier sollten mögliche Erweiterungen und weitere Einsatzgebiete der genutzten R-Fähigkeiten besprochen werden. Wenn es Literatur gibt, die dieses Vorgehen benutzt hat oder Seiten, Bücher oder Artikel gibt, die dazu dienen können, dass Angewendete in irgendeine Richtung zu erweitern, sollte das hier auftauchen.

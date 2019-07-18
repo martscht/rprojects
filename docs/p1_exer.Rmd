@@ -1,0 +1,5 @@
+---
+title: "Problemstellung"
+---
+
+An dieser Stelle wird das Problem aus inhaltlicher Sicht geschildert. Auf inhaltlich relevante Seiten sollte explizit gelinkt werden, z.B. auf [die Datenbereitstellung von IMDb](https://www.imdb.com/interfaces/).
