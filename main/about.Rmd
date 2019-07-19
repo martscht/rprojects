@@ -2,17 +2,13 @@
 title: "Impressum"
 ---
 
+Diese Seite wurde als offenes, ergänzendes Material zur Methodenausbildung im Bachelorstudium der Psychologie an der Goethe Universität Frankfurt am Main erstellt. Die Erstellung wurd durch Mittel zur Verbesserung der Qualität der Studienbedingungen und der Lehre (QSL) ermöglicht.
+
 ## Beteiligte
 
 [Martin Schultze](http://www.psychologie.uni-frankfurt.de/78419488/Team), Christina Berger, Robin Mehler, Jana Gäde
 
 ## Kontakt
-
-**Email**
-
-[schultze@psych.uni-frankfurt.de](mailto:schultze@psych.uni-frankfurt.de)
-
-**Post Adresse**
 
 Abteilung Psychologische Methoden mit interdisziplinärer Ausrichtung  
 Institut für Psychologie FB 05  
@@ -21,10 +17,8 @@ Goethe-Universität Frankfurt am Main
 Theodor-W.-Adorno-Platz 6  
 60629 Frankfurt am Main
 
-## Lizenz
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.de) Die Inhalte dieser Seite sind lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz. 
-
-Diese Seite wurde als offenes, ergänzendes Material zur Methodenausbildung im Bachelorstudium der Psychologie an der Goethe Universität Frankfurt am Main erstellt. Die Erstellung wurd durch Mittel zur Verbesserung der Qualität der Studienbedingungen und der Lehre (QSL) ermöglicht.
-
-![](GU-Logo-blau.png)
+<ul class="bottom_icons">
+  <li> <a rel="uni" href="http://www.psychologie.uni-frankfurt.de/75520710/Abteilung_f%C3%BCr_psychologische_Methoden_mit_interdisziplin%C3%A4rer_Ausrichtung"><img alt="Goethe Universität" style="border-width:0;height:48px;width:auto" src="GU-Kopf.png" /></a> </li>
+  <li> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0;height:48px;width:auto" src="https://mirrors.creativecommons.org/presskit/icons/cc.png" /></a> </li>
+  <li> <a rel="github" href="https://github.com/martscht/rprojects"><img alt="Auf GitHub Ansehen" style="border-width:0;height:48px;width:auto" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a> </li>
+</ul>

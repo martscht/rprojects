@@ -1,11 +1,13 @@
 name: "rprojects"
 output_dir: "../docs"
-include: [".nojekyll", "GU-Logo-blau.png", "outfold.js"]
+include: [".nojekyll", "GU-Kopf.png", "outfold.js"]
 output:
   html_document:
     theme: flatly
     highlight: textmate
     css: style.css
+    # include:
+    #   after_body: footer.html
 navbar:
   title: "R Projekte"
   left:
@@ -31,6 +33,39 @@ navbar:
           href: p2_tips.html
         - text: "Lösungen"
           href: p2_solu.html
+    - text: Projekt 3
+      icon: fa-bell
+      menu:
+        - text: "Übersicht"
+          href: p3_main.html
+        - text: "Aufgaben"
+          href: p3_exer.html
+        - text: "Tipps"
+          href: p3_tips.html
+        - text: "Lösungen"
+          href: p3_solu.html
+    - text: Projekt 4
+      icon: fa-coffee
+      menu:
+        - text: "Übersicht"
+          href: p4_main.html
+        - text: "Aufgaben"
+          href: p4_exer.html
+        - text: "Tipps"
+          href: p4_tips.html
+        - text: "Lösungen"
+          href: p4_solu.html
+    - text: Projekt 5
+      icon: fa-user-astronaut
+      menu:
+        - text: "Übersicht"
+          href: p5_main.html
+        - text: "Aufgaben"
+          href: p5_exer.html
+        - text: "Tipps"
+          href: p5_tips.html
+        - text: "Lösungen"
+          href: p5_solu.html
     - text: "Impressum"
       icon: fa-info
       href: about.html
