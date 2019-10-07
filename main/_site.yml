@@ -34,7 +34,7 @@ navbar:
         - text: "Lösungen"
           href: p2_solu.html
     - text: Projekt 3
-      icon: fa-whatsapp-square
+      icon: fa-whatsapp
       menu:
         - text: "Übersicht"
           href: p3_main.html
