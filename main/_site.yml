@@ -12,7 +12,7 @@ navbar:
   title: "R Projekte"
   left:
     - text: Projekt 1
-      icon: fa-heartbeat
+      icon: fa-google
       menu:
         - text: "Übersicht"
           href: p1_main.html
@@ -23,7 +23,7 @@ navbar:
         - text: "Lösungen"
           href: p1_solu.html
     - text: Projekt 2
-      icon: fa-feather
+      icon: fa-chess
       menu:
         - text: "Übersicht"
           href: p2_main.html
@@ -45,7 +45,7 @@ navbar:
         - text: "Lösungen"
           href: p3_solu.html
     - text: Projekt 4
-      icon: fa-coffee
+      icon: fa-fingerprint
       menu:
         - text: "Übersicht"
           href: p4_main.html
@@ -56,7 +56,7 @@ navbar:
         - text: "Lösungen"
           href: p4_solu.html
     - text: Projekt 5
-      icon: fa-user-astronaut
+      icon: fa-border-none
       menu:
         - text: "Übersicht"
           href: p5_main.html
